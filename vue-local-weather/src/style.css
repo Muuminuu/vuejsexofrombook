@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.wind{
+    color: #7eafdd;
+}
+
+.windspeed{
+    color: #6c78bd;
+}
+
+.precipation{
+    color: #0d76cc;
+}
